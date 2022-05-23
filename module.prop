@@ -1,0 +1,7 @@
+id=AdGuardDNS4Magisk
+name=AdGuardDNS4Magisk Famile Protection
+version=v1
+versionCode=1
+author=K3V1991
+description=AdGuard Famile Protection DNS systemless
+minMagisk=17000
