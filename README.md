@@ -1,9 +1,9 @@
 <p align="center"><img src="https://i.ibb.co/17srxvz/AdGuard.png" width="120"></a>
 <h1 align="center"><b>AdGuardDNS4Magisk Famile Protection</b></h1>
-<h4 align="center">This Module makes your Device to use AdGuard Famile Protection DNS Servers</h4>
+<h4 align="center">This Module makes your Device to use AdGuard Family Protection DNS Servers</h4>
 <br />
 
-## AdGuard Famile Protection DNS Servers:
+## AdGuard Family Protection DNS Servers:
 * 176.103.130.132
 * 176.103.130.134
 
