@@ -1,6 +1,6 @@
-<p align="center"><img src="https://github.com/K3V1991/AdGuardDNS4Magisk-Family-Protection/blob/main/AdGuard.png" width="120"></a>
-<h1 align="center"><b>AdGuardDNS4Magisk Family Protection</b></h1>
-<h4 align="center">This Module makes your Device to use AdGuard Family Protection DNS Servers</h4>
+<p align="center"><img src="https://github.com/K3V1991/AdGuardDNS4Magisk-Default/blob/main/AdGuard.png" width="120"></a>
+<h1 align="center"><b>AdGuardDNS4Magisk Family</b></h1>
+<h4 align="center">This Module makes your Device to use AdGuard Family DNS Servers</h4>
 <br />
 
 <p align="center">
@@ -12,18 +12,21 @@
 <hr />
 <br />
 
-## AdGuard Family Protection DNS Servers:
-* 176.103.130.132
-* 176.103.130.134
+## AdGuard Family DNS Servers:
+* 94.140.14.15
+* 94.140.15.16
 
 ## Caution:
 It is not guaranteed to work on Cellular Networks on all Devices
+<br />
 
 ## Requirements:
 Magisk installed (v17+)
+<br />
 
 ## Changelog:
-v1 (Initial Release)
+v2.0 Updated Servers
+<br />
 
 ## Links:
 [![XDA Thread](https://img.shields.io/badge/XDA-Thread-orange.svg)](https://forum.xda-developers.com/apps/magisk/module-adguarddns4magisk-default-famile-t3905370)
